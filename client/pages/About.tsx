@@ -70,7 +70,7 @@ const MissionSection = () => (
             Notre Mission
           </h2>
           <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            FOOTSOCIETY révolutionne le marketing sportif en créant des ponts
+            FOOTSOCIETY révolutionne le marketing sportif et evenementiel en créant des ponts
             entre les marques, les talents et les fans. Nous transformons chaque
             événement en une expérience mémorable qui transcende le sport.
           </p>
